@@ -1,0 +1,44 @@
+### Git ###
+*.orig
+
+### Java ###
+*.jar
+target/
+
+### Eclipse ###
+.project
+.classpath
+.settings
+.apt_generated
+.springBeans
+.factorypath
+.sts4-cache/
+
+### IntelliJ ###
+.idea
+*.ipr
+*.iws
+*.iml
+
+### VS Code ###
+.vscode/
+
+### NetBeans ###
+dist/
+nbdist/
+build/
+.nb-gradle/
+nbproject/private/
+nbbuild/
+bin/
+
+### VIM ###
+*~
+*.swp
+*.swo
+
+### General ###
+*.DS_Store
+*.log
+*.lock*
+.dbeaver
